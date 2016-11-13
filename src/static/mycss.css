@@ -1,0 +1,10 @@
+body{
+margin-left: 20px;
+    margin-top: 20px;
+}
+.errorlist{
+    background-color: darkred;
+    list-style: none;
+    color: white;
+    width: 200px;
+}
